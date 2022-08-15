@@ -14,7 +14,7 @@
   
 </div>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ehdbs28&show_icons=true&theme=flag-india"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ehdbs28&show_icons=true&theme=swift"/>
 
 <dic align="left">
 
