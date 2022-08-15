@@ -35,6 +35,6 @@
   
 ---
 
-![tumblr_lpf8ljoQq81qfyogko1_500](https://user-images.githubusercontent.com/98889991/184650135-56c33852-7694-4661-af29-d5278669b882.gif)
-![1534260474252](https://user-images.githubusercontent.com/98889991/184650482-3f8f290f-1ffa-4f6d-a7ac-68cd5839e609.gif)
+![tumblr_lpf8ljoQq81qfyogko1_500](https://user-images.githubusercontent.com/98889991/184651371-18f59b96-f379-4c2c-8b45-d0453a765726.gif)
+![1534260474252](https://user-images.githubusercontent.com/98889991/184651537-d12937f6-d16f-4d65-9a34-b2619bc0ef2a.gif)
 
