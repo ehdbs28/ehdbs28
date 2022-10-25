@@ -34,7 +34,3 @@
   <a href="https://www.instagram.com/whereis.stingray/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
 ---
-
-![tumblr_lpf8ljoQq81qfyogko1_500](https://user-images.githubusercontent.com/98889991/184651371-18f59b96-f379-4c2c-8b45-d0453a765726.gif)
-![1534260474252](https://user-images.githubusercontent.com/98889991/184651537-d12937f6-d16f-4d65-9a34-b2619bc0ef2a.gif)
-
