@@ -33,4 +33,6 @@
   <a href="https://www.facebook.com/profile.php?id=100010137919669"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/whereis.stingray/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
----
+<br>
+
+<a href=#><img src="contributions.svg"></a>
