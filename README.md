@@ -2,7 +2,7 @@
 
 ### 🦕 Introdution
 
-###### 안녕하세요! 경기게임마이스터고에 재학중이며 현재는 공부중입니다.
+Hello! I am studying game development at Gyeonggi Game Meister High School :)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehdbs28&count_bg=%23394DF5&title_bg=%235886FF&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -34,3 +34,8 @@
   <a href="https://www.instagram.com/whereis.stingray/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
 <br>
+
+---
+
+**You can contact me ->**
+doyun5373@naver.com
