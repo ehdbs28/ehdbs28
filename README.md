@@ -26,16 +26,15 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 
 </div>
 
-### 🎮 SNS
+### 🎮 PORTFOLIO
 
-  <a href="https://www.youtube.com/channel/UCTJ55O2NQrO8RFE7ThoKDqA"><img src="https://img.shields.io/badge/Youtube-%e61919.svg?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
-  <a href="http://ggm.gondr.net/user/profile/226"><img src="https://img.shields.io/badge/School-%4285F4.svg?style=for-the-badge&logo=Google Scholar&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100010137919669"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/whereis.stingray/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+|Portfolio|Hyperlink|
+|------|----|
+|My youtube|[Shortcut](https://www.youtube.com/channel/UCTJ55O2NQrO8RFE7ThoKDqA)|
+|My school portfolio|[Shortcut](http://ggm.gondr.net/user/profile/226)|
+|My blog|[Shortcut](https://dooooooyun.tistory.com/)|
   
-<br>
-
----
-
 **You can contact me ->**
 doyun5373@naver.com
+
+
