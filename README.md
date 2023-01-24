@@ -33,6 +33,7 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 |My youtube|[Shortcut](https://www.youtube.com/channel/UCTJ55O2NQrO8RFE7ThoKDqA)|
 |My school portfolio|[Shortcut](http://ggm.gondr.net/user/profile/226)|
 |My blog|[Shortcut](https://dooooooyun.tistory.com/)|
+|Itch.io|[Shortcut](https://ehdbs28.itch.io/)|
   
 **You can contact me ->**
 doyun5373@naver.com
