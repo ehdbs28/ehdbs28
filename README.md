@@ -13,7 +13,8 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 <div align="center">
   
 </div>
- 
+
+ <a href="https://opgc.me/#/users/ehdbs28" target="_blank"><img src="https://api.opgc.me/githubs/users/ehdbs28/tag/?theme=basic" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ehdbs28&show_icons=true&theme=swift"/>
 
 <dic align="left">
