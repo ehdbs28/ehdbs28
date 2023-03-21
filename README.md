@@ -21,7 +21,14 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 [![School](https://img.shields.io/badge/School-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](http://ggm.gondr.net/user/profile/226)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dooooooyun.tistory.com/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://ehdbs28.itch.io/)
-  
+
+</div>
+
+### ✨ MY STATS
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ehdbs28&theme=dracula" height='170'>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs41325)](https://solved.ac/ehdbs41325/)
+
 **You can contact me ->**
 doyun5373@naver.com
 
