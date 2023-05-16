@@ -20,6 +20,7 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTJ55O2NQrO8RFE7ThoKDqA)
 [![School](https://img.shields.io/badge/School-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](http://ggm.gondr.net/user/profile/226)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dooooooyun.tistory.com/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@ehdbs28)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://ehdbs28.itch.io/)
 
 </div>
