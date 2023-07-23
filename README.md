@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There 😊
+## Hi There 😊
 
 <a href="https://www.youtube.com/channel/UCTJ55O2NQrO8RFE7ThoKDqA"><img src="https://img.shields.io/badge/My Channel-FF0000?style=badge&logo=youtube&logoColor=white"/></a> <a href="http://ggm.gondr.net/user/profile/226"><img src="https://img.shields.io/badge/School Portfoilo-4285F4?style=badge&logo=GoogleScholar&logoColor=white"/></a> <a href="https://dooooooyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-111111?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://velog.io/@ehdbs28/series"><img src="https://img.shields.io/badge/ehdbs28.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://ehdbs28.itch.io/"><img src="https://img.shields.io/badge/itch.io Store-FA5C5C?style=badge&logo=itch.io&logoColor=white"/></a>
 
