@@ -1,33 +1,39 @@
-# Hi there 👋
+<div align="center">
 
-### 🦕 Introdution
+### Hi There 😊
 
-Hello! I am studying game development at Gyeonggi Game Meister High School :)
+<a href="https://www.youtube.com/channel/UCTJ55O2NQrO8RFE7ThoKDqA"><img src="https://img.shields.io/badge/My Channel-FF0000?style=badge&logo=youtube&logoColor=white"/></a> <a href="http://ggm.gondr.net/user/profile/226"><img src="https://img.shields.io/badge/School Portfoilo-4285F4?style=badge&logo=GoogleScholar&logoColor=white"/></a> <a href="https://dooooooyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-111111?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://velog.io/@ehdbs28/series"><img src="https://img.shields.io/badge/ehdbs28.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://ehdbs28.itch.io/"><img src="https://img.shields.io/badge/itch.io Store-FA5C5C?style=badge&logo=itch.io&logoColor=white"/></a>
+
+<a href="https://github.com/ehdbs28"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehdbs28&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
 ---
 
-### 🔍 I can
+<pre>
+    I'm student who hoping to become a Game Client Developer / Game Engine Developer
+</pre>
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 👨‍💻 Currently I'm Studing at..
+
+---
+
+<pre>
+    Game Meister High School (2022.03 ~ Graduation)
+</pre>
+
+### 🏷️ My Specifications
+
+---
 
 </div>
 
-### 🎮 PORTFOLIO
+<a href="https://solved.ac/profile/ehdbs41325"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs41325&theme=dark"/></a>
 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTJ55O2NQrO8RFE7ThoKDqA)
-[![School](https://img.shields.io/badge/School-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white)](http://ggm.gondr.net/user/profile/226)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dooooooyun.tistory.com/)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@ehdbs28)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://ehdbs28.itch.io/)
+<img src="https://img.shields.io/badge/C-033963?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-</div>
+</br>
 
-### ✨ MY STATS
+<img src="https://img.shields.io/badge/UNITY-111111?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/UE4-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ehdbs28&theme=dracula" height='170'>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs41325)](https://solved.ac/ehdbs41325/)
+</br>
 
-**You can contact me ->**
-doyun5373@naver.com
-
-
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
