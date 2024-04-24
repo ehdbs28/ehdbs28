@@ -18,7 +18,7 @@
 
 </div>
 
-<a href="https://solved.ac/profile/ehdbs41325"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs41325&theme=dark"/></a>
+<a href="https://solved.ac/profile/ehdbs41325"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs41325&theme=dark"/></a><img align="right" width="380" src="https://myreadme.vercel.app/api/embed/ehdbs28?panels=userstatistics,commitgraph"/>
 
 **Languages**<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=badge&logo=csharp&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=badge&logo=typescript&logoColor=white"/>
