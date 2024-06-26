@@ -8,7 +8,7 @@
     I'm student who hoping to become a Game Client Developer / Game Engine Developer
 </pre>
 
-### 👨‍💻 Currently I'm Studing at..
+### 👨‍💻 History about me...
 
 <pre>
     Game Meister High School (2022.03 ~ Graduation)
