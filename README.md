@@ -16,5 +16,5 @@
 
 </div>
 
-<a href="https://git.io/streak-stats"><img height="150" src="https://streak-stats.demolab.com?user=ehdbs28&theme=dark&card_width=380&hide_longest_streak=true" alt="GitHub Streak" /></a></a><a href="https://velog.io/@ehdbs28"><img height="150" src="https://velog-readme-stats.vercel.app/api/list?name=ehdbs28"/></a><a href="https://solved.ac/profile/ehdbs41325"><img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs41325&theme=dark"/></a>
+<a href="https://git.io/streak-stats"><img height="150" src="https://streak-stats.demolab.com?user=ehdbs28&theme=dark&card_width=380&hide_longest_streak=true" alt="GitHub Streak" /></a></a><a href="https://velog.io/@ehdbs28"><img height="150" src="https://velog-readme-stats.vercel.app/api/list?name=ehdbs28"/></a>
 
