@@ -12,7 +12,6 @@
 
 <pre>
     Gyeonggi Game Meister High School (2022.03 ~ 2024.12)
-    Awesomepiece (2024.10 ~ ..)
 </pre>
 
 <a href="https://git.io/streak-stats"><img height="150" src="https://streak-stats.demolab.com?user=ehdbs28&theme=dark&card_width=450" alt="GitHub Streak" /></a>   <a href="https://velog.io/@ehdbs28"><img height="150" src="https://velog-readme-stats.vercel.app/api/list?name=ehdbs28"/></a>
